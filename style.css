@@ -1,0 +1,21 @@
+body {
+    background-color: #667743;
+}
+
+.container {
+    background-color: blue;
+}
+
+input {
+    padding: 20px 20px 20px 30px;
+}
+
+.btn {
+    padding: 6px 21px;
+}
+
+.btn1 {
+    padding: 76px 20px;
+    background-color: rgb(92, 92, 240);
+    border: none;
+}
