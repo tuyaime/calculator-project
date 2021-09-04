@@ -1,4 +1,9 @@
-let input = document.getElementById("inputEnter")
+let number1 = ''
+
+
+
+
+let inputEnter = document.getElementById("inputEnter")
 
 let button = document.getElementById("btnPlus")
 
@@ -33,3 +38,12 @@ let btn0 = document.getElementById("btn0")
 let btnDot = document.getElementById("btnDot")
 
 let btnClose = document.getElementById("btnClose")
+
+btn0.addEventListener("click", function() {
+    number1 = number1 + "0"
+    inputEnter.value = number1
+})
+btn1.addEventListener("click", function() {
+    number1 = number1 + "1"
+    inputEnter.value = number1
+})
