@@ -47,3 +47,39 @@ btn1.addEventListener("click", function() {
     number1 = number1 + "1"
     inputEnter.value = number1
 })
+btn2.addEventListener("click", function() {
+    number1 = number1 + "2"
+    inputEnter.value = number1
+})
+btn3.addEventListener("click", function() {
+    number1 = number1 + "3"
+    inputEnter.value = number1
+})
+btn4.addEventListener("click", function() {
+    number1 = number1 + "4"
+    inputEnter.value = number1
+})
+btn5.addEventListener("click", function() {
+    number1 = number1 + "5"
+    inputEnter.value = number1
+})
+btn6.addEventListener("click", function() {
+    number1 = number1 + "6"
+    inputEnter.value = number1
+})
+btn7.addEventListener("click", function() {
+    number1 = number1 + "7"
+    inputEnter.value = number1
+})
+btn8.addEventListener("click", function() {
+    number1 = number1 + "8"
+    inputEnter.value = number1
+})
+btn9.addEventListener("click", function() {
+    number1 = number1 + "9"
+    inputEnter.value = number1
+})
+btnClose.addEventListener("click", function() {
+
+
+        }
