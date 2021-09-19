@@ -2,13 +2,9 @@ body {
     background-color: #667743;
 }
 
-
-/* .container {
-     background-color: blue; 
-} */
-
 input {
     padding: 20px 20px 20px 30px;
+    /* font-size: 25px; */
 }
 
 .btn {
